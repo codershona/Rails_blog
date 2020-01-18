@@ -1,24 +1,12 @@
+
 # README
+## Project: Rails Blog page app with Blogs with comments.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Builded by Falguni Islam(Software Developer)
 
-* Ruby version
 
-* System dependencies
+ Run rails s
 
-* Configuration
+Then visit (http://localhost:3000) in the browser to see the app.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
