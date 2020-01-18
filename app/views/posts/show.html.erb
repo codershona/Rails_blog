@@ -25,6 +25,8 @@
         		<%= link_to "Edit", edit_post_path(@post), class: "button" %>
         		</p>
 
+                        <!-- Delete button methods added  -->
+
         		<p class="level-item">
                                 <%= link_to "Delete", post_path(@post), method: :delete, data: { confirm: "Are you sure? " }, class: "button is-danger"  %>
         			<!-- TODO: Add rails functionality -->
