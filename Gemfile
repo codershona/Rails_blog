@@ -41,8 +41,9 @@ gem 'bulma-rails', '~> 0.8.0'
 
 gem 'simple_form', '~> 5.0', '>= 5.0.1'
 
+# Retrieve the binding of a method's caller. Can also retrieve bindings even further up the stack.
 
-
+gem 'binding_of_caller', '~> 0.8.0'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
