@@ -26,10 +26,11 @@
         		</p>
 
         		<p class="level-item">
+                                <%= link_to "Delete", post_path(@post), method: :delete, data: { confirm: "Are you sure? " }, class: "button is-danger"  %>
         			<!-- TODO: Add rails functionality -->
-        			<a class="button is-danger">
+        			<!-- <a class="button is-danger">
         				Delete
-        			</a>
+        			</a> -->
         		</p>
         	</div>
         </nav>
