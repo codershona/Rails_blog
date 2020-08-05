@@ -3,7 +3,7 @@
 ## Project: Rails Blog page app with Blogs with comments.
 
 
-## Builded by Falguni Islam(Software Developer)
+
 
 
  Run rails s
